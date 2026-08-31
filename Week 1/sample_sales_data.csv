@@ -1,0 +1,11 @@
+Order ID,Order Date,Region,Category,Department,Sales
+1001,2023-01-05,East,Technology,IT,1200
+1002,2023-02-10,West,Furniture,Operations,850
+1003,2023-03-15,East,Office Supplies,Administration,450
+1004,2023-04-20,South,Technology,IT,1500
+1005,2024-01-11,West,Furniture,Operations,950
+1006,2024-02-18,North,Technology,IT,1750
+1007,2024-03-09,East,Office Supplies,Administration,600
+1008,2024-04-21,South,Furniture,Operations,1100
+1009,2024-05-14,North,Technology,IT,1750
+1010,2024-06-03,West,Office Supplies,Administration,500
